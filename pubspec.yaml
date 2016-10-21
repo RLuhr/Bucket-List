@@ -1,8 +1,8 @@
 name: 'Bucket_List'
 version: 0.0.1
-description: An absolute bare-bones web app.
-#author: RLuhr <email@example.com>
-#homepage: https://www.example.com
+description: A webpage to keep track of bucket list items.
+#author: RLuhr <rachluhr@yahoo.com>
+#homepage: https://www.wordpress.rachaelluhr.com
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
