@@ -4,5 +4,5 @@
 import 'dart:html';
 
 void main() {
-  querySelector('#output').text = 'Bucket list';
+  querySelector('#output').text = 'Bucket list -> Needs improvement';
 }
